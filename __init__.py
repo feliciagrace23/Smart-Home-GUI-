@@ -1,4 +1,4 @@
-import file_OOP.oop.smarthome.gui as app
+import gui.py as app
 # import UAS_OOP.oop.smarthome.db
 
 if __name__ == "__main__":
